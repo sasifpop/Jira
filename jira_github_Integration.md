@@ -10,3 +10,4 @@ Test commit on TEST-2
 
 Test commit on TEST-3
 
+TEST-3 fixed issue
